@@ -1,0 +1,7 @@
+{
+ "num_classes": 2,
+ "model_name": "Transformer",
+ "device": "cuda:0",
+ "acc": 68.22429906542057,
+ "best_epoch": 1
+}
