@@ -9,6 +9,7 @@ This repository primarily includes the following components:
 This project is technically supported by the onekey platform.
 
 👤 Code Structure
+<<<<<<< HEAD
 Code Structure
 📂 project_root
 │── 📂 code                  # Code directory
@@ -18,6 +19,13 @@ Code Structure
 │   ├── Step3.DL_feature.ipynb   # Deep learning feature extraction
 │   ├── Module1.Transformer_fusion.ipynb # Transformer-based feature fusion
 │   ├── config.yaml              # Configuration file
+=======
+📂 project_root
+│── 📂 code                  # Code directory
+│   ├── model.py             # Deep learning model implementation
+│   ├── feature_extraction.py # Feature extraction module
+│   ├── fusion_transformer.py # Transformer-based feature fusion model
+>>>>>>> 2152e892d26cf1b616bc5e8e74ebae7e1fa65e27
 │── 📂 models                # Pre-trained models
 │── 📂 data                  # Dataset storage (to be provided by the user)
 │── 📂 LICENSE               # License file
